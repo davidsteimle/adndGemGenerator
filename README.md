@@ -4,7 +4,7 @@ This process is from the *AD&D Dungeon Masters Guide* (1979).
 
 # basevalueofgems.json (p25)
 
-A jason file defining the first table in the process
+A jason file defining the first table in the process:
 
 | DiceScore | BaseValue | Description | Size |
 | :-------: | :-------: | :---------- | :--- |

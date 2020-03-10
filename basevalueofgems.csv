@@ -1,0 +1,8 @@
+DiceScore,BaseValue,Description,Size
+1,10,ornamental,very small
+26,50,semi-precious,small
+51,100,fancy,average
+71,500,precious,large
+91,1000,gem,very large
+00,5000,jewel,huge
+
