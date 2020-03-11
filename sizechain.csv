@@ -1,0 +1,19 @@
+BaseValue,Size
+0.05,
+0.25,
+0.5,
+1,very tiny
+5,tiny
+10,very small
+50,small
+100,average
+500,large
+1000,very large
+5000,huge
+10000,very huge
+25000,enourmous
+50000,jumbo
+100000,gigantic
+250000,colossal
+500000,titanic
+1000000,Brobdingnagian
