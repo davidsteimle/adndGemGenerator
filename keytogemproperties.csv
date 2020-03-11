@@ -1,4 +1,4 @@
-BaseValue,Name,Opacity,Description,ReputedProperties,ColorProperties
+BaseValue,Name,Opacity,Description,ReputedProperties
 10,azurite,opaque,mottled deep blue
 10,banded agate,translucent,striped brown and blue and white and reddish,restful and safe sleep
 10,blue quartz,transparent,pale blue
@@ -7,12 +7,51 @@ BaseValue,Name,Opacity,Description,ReputedProperties,ColorProperties
 10,lapis lazuli,opaque,light and dark blue with yellow flecks,"raises morale, courage"
 10,malachite,opaque,striated light and dark green,protection from falling
 10,moss agate,translucent,pink or yellow-white with grayish or greenish "moss markings",restful and safe sleep
-10,obsidian,opaque,black,causes discord amongst enemies
+10,obsidian,opaque,black
 10,rhodochrosite,opaque,light pink
 10,tiger eye,translucent,rich brown with golden center under-hue
 10,turquoise,opaque,light blue-green,aids horses in all ways (but stone shatters when it operates)
 50,bloodstone,opaque,dark gray with red flecks,weather control
 50,carnelian,opaque,orange to reddish brown (also called "sard"),protection from evil
-50,calcedony,opaque,white,wards off undead,the Moon - enigmatic
-50,chrysoprase,translucent,apple green to emerald green,invisibility,Venus - reproduction - sight - resurrection
-
+50,calcedony,opaque,white,wards off undead
+50,chrysoprase,translucent,apple green to emerald green,invisibility
+50,citrine,transparent,pale yellow brow
+50,jasper,opaque,"blue, black to brown",protection from venom
+50,moonstone,translucent,white with pale blue glow,causes lycanthropy
+50,onyx,opaque,bands of pure black and white or pure black or white,causes discord amongst enemies
+50,rock crystal,transparent,clear
+50,sardonyx,opaque,bands of sard (red) and onyx (white) or sard (carnelian)
+50,smoky quartz,transparent,"gray, yellow, or blue (Cairngorm), all light"
+50,star rose quartz,translucent,rosy stone with white "star" center
+50,zircon,transparent,clear pale blue-green
+100,amber,transparent,watery gold to rich gold,wards off disease
+100,alexandrite,transparent,dark green,good omens
+100,amethyst,transparent,deep purple,prevents drunkenness or drugging
+500,aquamarine,transparent,pale blue green
+100,chrysoberyl,transparent,yellow green to green,protection from possession
+100,coral,opaque,crimson,"calms weather, safety in river crossing, cures madness, stanches bleeding"
+100,garnet,transparent,red or brown-green
+500,garnet,transparent,violet
+100,jade,translucent,"light green, deep green, green and white, white",skill at music and musical instruments
+100,jet,opaque,deep black,soul object material
+100,pearl,opaque,"lustrous white, yellowish, pinkish, etc"
+500,pearl,opaque,pure black
+500,peridot,transparent,rich olive green (chrysolite),"wards off enchantments"
+100,spinel,transparent,"red, red-brown, or deep green"
+500,spinel,transparent,deep blue
+500,topaz,transparent,golden yellow,wards off evil spirits
+100,tourmaline,transparent,"green pale, blue pale, brown pal, or reddish pale"
+1000,black opal,translucent,dark green with black mottling and golden flecks
+5000,black sapphire,translucent,lustrous black with glowing highlights
+5000,diamond,transparent,clear blue-white with lesser stones clear white or pale tints,invulnerability vs. undead
+1000,emerald,transparent,deep bright green
+1000,fire opal,translucent,fiery red
+5000,jacinth,transparent,fiery orange (corundum),"luck travelling, wards off plague, protection from fire"
+1000,opal,translucent,pale blue with green and golden mottling
+1000,oriental amethyst,transparent,rich purple (corundum),prevents drunkenness or drugging
+5000,oriental emerald,transparent,clear bright green (corundum)
+1000,oriental topaz,transparent,fiery yellow (corundum)
+5000,ruby,transparent,clear red to deep crimson (corundum),gives good luck
+1000,sapphire,transparent,clear to medium blue (corundum),"aids understanding of problems, kills spiders, boosts magical abilities"
+1000,star ruby,translucent,ruby with white "star" center
+1000,star sapphire,translucent,sapphire with "star" center,protection from magic
