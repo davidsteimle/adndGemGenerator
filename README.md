@@ -15,6 +15,12 @@ The process is quite simple:
 
 1. Determine how many gems you need (typically in the _Monster Manual_)
 1. Determine the _base value_
+    * This can be done in lots of 5 or 10
+    * Roll percentiles for each lot to get base value
+1. Roll for value variation, per lot (optional)
+1. Roll for gem type (optional)
+
+----
 
 ## basevalueofgems.json (p25)
 
