@@ -1,6 +1,20 @@
 # Gem Generation
 
+Of all the programming possibilities provided by roleplaying games, 
+I find the gem calculation bit in AD&D to be my favorite. Sure, you 
+could award your players with "15 10gp gems," but wouldn't "you find 
+10 eye agates and 5 pieces of turquoise," sound better? It adds 
+flavor, and when coupled with _reputed properties_ you have a whole 
+new set of roleplaying hooks. The variation in value also allows for 
+chances to cheat, or be cheated, when selling gems, the degree of 
+flaw or improvement affecting skill challenges.
+
 This process is from the *AD&D Dungeon Masters Guide* (1979).
+
+The process is quite simple:
+
+1. Determine how many gems you need (typically in the _Monster Manual_)
+1. Determine the _base value_
 
 ## basevalueofgems.json (p25)
 
