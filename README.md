@@ -20,6 +20,8 @@ The process is quite simple:
 1. Roll for [value variation](#increase-or-decrease-of-worth-beyond-base-value-p26), per lot (optional)
 1. Roll for [gem type](#keytogempropertiesjson-p26) (optional)
 
+The difficulty can come in when value variation calls for a second roll, which may in turn call for a third, and so on.
+
 ----
 
 ## basevalueofgems.json (p25)
