@@ -14,11 +14,11 @@ This process is from the *AD&D Dungeon Masters Guide* (1979).
 The process is quite simple:
 
 1. Determine how many gems you need (typically in the _Monster Manual_)
-1. Determine the [_base value_](#basevalueofgemsjson-p25)
+1. Determine the [base value](#basevalueofgemsjson-p25)
     * This can be done in lots of 5 or 10
     * Roll percentiles for each lot to get base value
-1. Roll for value variation, per lot (optional)
-1. Roll for gem type (optional)
+1. Roll for [value variation](#increase-or-decrease-of-worth-beyond-base-value-p26), per lot (optional)
+1. Roll for [gem type](#keytogempropertiesjson-p26) (optional)
 
 ----
 
