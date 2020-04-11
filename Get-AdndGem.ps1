@@ -100,5 +100,5 @@ do{
             $gem.Modified.Log = $gem.Modified.Log + "$modifier - Base value shown is unchanged."
             break
         }
-
+    }
 } while($rollagain -and ($count -le 7))
