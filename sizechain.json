@@ -1,73 +1,91 @@
 [
   {
+    "Index": -4,
     "BaseValue": 0.05,
     "Size": "flake"
   },
   {
+    "Index": -3,
     "BaseValue": 0.25,
     "Size": "sliver"
   },
   {
+    "Index": -2,
     "BaseValue": 0.5,
     "Size": "miniscule"
   },
   {
+    "Index": -1,
     "BaseValue": 1,
     "Size": "very tiny"
   },
   {
+    "Index": 0,
     "BaseValue": 5,
     "Size": "tiny"
   },
   {
+    "Index": 1,
     "BaseValue": 10,
     "Size": "very small"
   },
   {
+    "Index": 2,
     "BaseValue": 50,
     "Size": "small"
   },
   {
+    "Index": 3,
     "BaseValue": 100,
     "Size": "average"
   },
   {
+    "Index": 4,
     "BaseValue": 500,
     "Size": "large"
   },
   {
+    "Index": 5,
     "BaseValue": 1000,
     "Size": "very large"
   },
   {
+    "Index": 6,
     "BaseValue": 5000,
     "Size": "huge"
   },
   {
+    "Index": 7,
     "BaseValue": 10000,
     "Size": "very huge"
   },
   {
+    "Index": 8,
     "BaseValue": 25000,
     "Size": "enourmous"
   },
   {
+    "Index": 9,
     "BaseValue": 50000,
     "Size": "jumbo"
   },
   {
+    "Index": 10,
     "BaseValue": 100000,
     "Size": "gigantic"
   },
   {
+    "Index": 11,
     "BaseValue": 250000,
     "Size": "colossal"
   },
   {
+    "Index": 12,
     "BaseValue": 500000,
     "Size": "titanic"
   },
   {
+    "Index": 13,
     "BaseValue": 1000000,
     "Size": "Brobdingnagian"
   }
