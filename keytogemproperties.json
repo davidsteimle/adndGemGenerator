@@ -14,378 +14,378 @@
     "ReputedProperties": "restful and safe sleep"
   },
   {
-    "BaseValue": "10",
+    "BaseValue": 10,
     "Name": "blue quartz",
     "Opacity": "transparent",
     "Description": "pale blue",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "10",
+    "BaseValue": 10,
     "Name": "eye agate",
     "Opacity": "translucent",
     "Description": "circles of gray, white, brown, blue and/or green",
     "ReputedProperties": "restful and safe sleep"
   },
   {
-    "BaseValue": "10",
+    "BaseValue": 10,
     "Name": "hematite",
     "Opacity": "opaque",
     "Description": "gray-black",
     "ReputedProperties": "aids fighters, heals wounds"
   },
   {
-    "BaseValue": "10",
+    "BaseValue": 10,
     "Name": "lapis lazuli",
     "Opacity": "opaque",
     "Description": "light and dark blue with yellow flecks",
     "ReputedProperties": "raises morale, courage"
   },
   {
-    "BaseValue": "10",
+    "BaseValue": 10,
     "Name": "malachite",
     "Opacity": "opaque",
     "Description": "striated light and dark green",
     "ReputedProperties": "protection from falling"
   },
   {
-    "BaseValue": "10",
+    "BaseValue": 10,
     "Name": "moss agate",
     "Opacity": "translucent",
     "Description": "pink or yellow-white with grayish or greenish \"moss markings\"",
     "ReputedProperties": "restful and safe sleep"
   },
   {
-    "BaseValue": "10",
+    "BaseValue": 10,
     "Name": "obsidian",
     "Opacity": "opaque",
     "Description": "black",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "10",
+    "BaseValue": 10,
     "Name": "rhodochrosite",
     "Opacity": "opaque",
     "Description": "light pink",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "10",
+    "BaseValue": 10,
     "Name": "tiger eye",
     "Opacity": "translucent",
     "Description": "rich brown with golden center under-hue",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "10",
+    "BaseValue": 10,
     "Name": "turquoise",
     "Opacity": "opaque",
     "Description": "light blue-green",
     "ReputedProperties": "aids horses in all ways (but stone shatters when it operates)"
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "bloodstone",
     "Opacity": "opaque",
     "Description": "dark gray with red flecks",
     "ReputedProperties": "weather control"
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "carnelian",
     "Opacity": "opaque",
     "Description": "orange to reddish brown (also called \"sard\")",
     "ReputedProperties": "protection from evil"
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "calcedony",
     "Opacity": "opaque",
     "Description": "white",
     "ReputedProperties": "wards off undead"
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "chrysoprase",
     "Opacity": "translucent",
     "Description": "apple green to emerald green",
     "ReputedProperties": "invisibility"
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "citrine",
     "Opacity": "transparent",
     "Description": "pale yellow brow",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "jasper",
     "Opacity": "opaque",
     "Description": "blue, black to brown",
     "ReputedProperties": "protection from venom"
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "moonstone",
     "Opacity": "translucent",
     "Description": "white with pale blue glow",
     "ReputedProperties": "causes lycanthropy"
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "onyx",
     "Opacity": "opaque",
     "Description": "bands of pure black and white or pure black or white",
     "ReputedProperties": "causes discord amongst enemies"
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "rock crystal",
     "Opacity": "transparent",
     "Description": "clear",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "sardonyx",
     "Opacity": "opaque",
     "Description": "bands of sard (red) and onyx (white) or sard (carnelian)",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "smoky quartz",
     "Opacity": "transparent",
     "Description": "gray, yellow, or blue (Cairngorm), all light",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "star rose quartz",
     "Opacity": "translucent",
     "Description": "rosy stone with white \"star\" center",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "50",
+    "BaseValue": 50,
     "Name": "zircon",
     "Opacity": "transparent",
     "Description": "clear pale blue-green",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "100",
+    "BaseValue": 100,
     "Name": "amber",
     "Opacity": "transparent",
     "Description": "watery gold to rich gold",
     "ReputedProperties": "wards off disease"
   },
   {
-    "BaseValue": "100",
+    "BaseValue": 100,
     "Name": "alexandrite",
     "Opacity": "transparent",
     "Description": "dark green",
     "ReputedProperties": "good omens"
   },
   {
-    "BaseValue": "100",
+    "BaseValue": 100,
     "Name": "amethyst",
     "Opacity": "transparent",
     "Description": "deep purple",
     "ReputedProperties": "prevents drunkenness or drugging"
   },
   {
-    "BaseValue": "500",
+    "BaseValue": 500,
     "Name": "aquamarine",
     "Opacity": "transparent",
     "Description": "pale blue green",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "100",
+    "BaseValue": 100,
     "Name": "chrysoberyl",
     "Opacity": "transparent",
     "Description": "yellow green to green",
     "ReputedProperties": "protection from possession"
   },
   {
-    "BaseValue": "100",
+    "BaseValue": 100,
     "Name": "coral",
     "Opacity": "opaque",
     "Description": "crimson",
     "ReputedProperties": "calms weather, safety in river crossing, cures madness, stanches bleeding"
   },
   {
-    "BaseValue": "100",
+    "BaseValue": 100,
     "Name": "garnet",
     "Opacity": "transparent",
     "Description": "red or brown-green",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "500",
+    "BaseValue": 500,
     "Name": "garnet",
     "Opacity": "transparent",
     "Description": "violet",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "100",
+    "BaseValue": 100,
     "Name": "jade",
     "Opacity": "translucent",
     "Description": "light green, deep green, green and white, white",
     "ReputedProperties": "skill at music and musical instruments"
   },
   {
-    "BaseValue": "100",
+    "BaseValue": 100,
     "Name": "jet",
     "Opacity": "opaque",
     "Description": "deep black",
     "ReputedProperties": "soul object material"
   },
   {
-    "BaseValue": "100",
+    "BaseValue": 100,
     "Name": "pearl",
     "Opacity": "opaque",
     "Description": "lustrous white, yellowish, pinkish, etc",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "500",
+    "BaseValue": 500,
     "Name": "pearl",
     "Opacity": "opaque",
     "Description": "pure black",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "500",
+    "BaseValue": 500,
     "Name": "peridot",
     "Opacity": "transparent",
     "Description": "rich olive green (chrysolite)",
     "ReputedProperties": "wards off enchantments"
   },
   {
-    "BaseValue": "100",
+    "BaseValue": 100,
     "Name": "spinel",
     "Opacity": "transparent",
     "Description": "red, red-brown, or deep green",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "500",
+    "BaseValue": 500,
     "Name": "spinel",
     "Opacity": "transparent",
     "Description": "deep blue",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "500",
+    "BaseValue": 500,
     "Name": "topaz",
     "Opacity": "transparent",
     "Description": "golden yellow",
     "ReputedProperties": "wards off evil spirits"
   },
   {
-    "BaseValue": "100",
+    "BaseValue": 100,
     "Name": "tourmaline",
     "Opacity": "transparent",
     "Description": "green pale, blue pale, brown pal, or reddish pale",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "1000",
+    "BaseValue": 1000,
     "Name": "black opal",
     "Opacity": "translucent",
     "Description": "dark green with black mottling and golden flecks",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "5000",
+    "BaseValue": 5000,
     "Name": "black sapphire",
     "Opacity": "translucent",
     "Description": "lustrous black with glowing highlights",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "5000",
+    "BaseValue": 5000,
     "Name": "diamond",
     "Opacity": "transparent",
     "Description": "clear blue-white with lesser stones clear white or pale tints",
     "ReputedProperties": "invulnerability vs. undead"
   },
   {
-    "BaseValue": "1000",
+    "BaseValue": 1000,
     "Name": "emerald",
     "Opacity": "transparent",
     "Description": "deep bright green",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "1000",
+    "BaseValue": 1000,
     "Name": "fire opal",
     "Opacity": "translucent",
     "Description": "fiery red",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "5000",
+    "BaseValue": 5000,
     "Name": "jacinth",
     "Opacity": "transparent",
     "Description": "fiery orange (corundum)",
     "ReputedProperties": "luck travelling, wards off plague, protection from fire"
   },
   {
-    "BaseValue": "1000",
+    "BaseValue": 1000,
     "Name": "opal",
     "Opacity": "translucent",
     "Description": "pale blue with green and golden mottling",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "1000",
+    "BaseValue": 1000,
     "Name": "oriental amethyst",
     "Opacity": "transparent",
     "Description": "rich purple (corundum)",
     "ReputedProperties": "prevents drunkenness or drugging"
   },
   {
-    "BaseValue": "5000",
+    "BaseValue": 5000,
     "Name": "oriental emerald",
     "Opacity": "transparent",
     "Description": "clear bright green (corundum)",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "1000",
+    "BaseValue": 1000,
     "Name": "oriental topaz",
     "Opacity": "transparent",
     "Description": "fiery yellow (corundum)",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "5000",
+    "BaseValue": 5000,
     "Name": "ruby",
     "Opacity": "transparent",
     "Description": "clear red to deep crimson (corundum)",
     "ReputedProperties": "gives good luck"
   },
   {
-    "BaseValue": "1000",
+    "BaseValue": 1000,
     "Name": "sapphire",
     "Opacity": "transparent",
     "Description": "clear to medium blue (corundum)",
     "ReputedProperties": "aids understanding of problems, kills spiders, boosts magical abilities"
   },
   {
-    "BaseValue": "1000",
+    "BaseValue": 1000,
     "Name": "star ruby",
     "Opacity": "translucent",
     "Description": "ruby with white \"star\" center",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "1000",
+    "BaseValue": 1000,
     "Name": "star sapphire",
     "Opacity": "translucent",
     "Description": "sapphire with \"star\" center",
