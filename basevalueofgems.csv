@@ -1,4 +1,4 @@
-DiceScore,BaseValue,Description,Size
+DiceScore,BaseValue,Type,Size
 1,10,ornamental,very small
 26,50,semi-precious,small
 51,100,fancy,average
