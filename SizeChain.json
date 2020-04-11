@@ -1,0 +1,74 @@
+[
+  {
+    "BaseValue": 0.05,
+    "Size": "flake"
+  },
+  {
+    "BaseValue": 0.25,
+    "Size": "sliver"
+  },
+  {
+    "BaseValue": 0.5,
+    "Size": "miniscule"
+  },
+  {
+    "BaseValue": 1,
+    "Size": "very tiny"
+  },
+  {
+    "BaseValue": 5,
+    "Size": "tiny"
+  },
+  {
+    "BaseValue": 10,
+    "Size": "very small"
+  },
+  {
+    "BaseValue": 50,
+    "Size": "small"
+  },
+  {
+    "BaseValue": 100,
+    "Size": "average"
+  },
+  {
+    "BaseValue": 500,
+    "Size": "large"
+  },
+  {
+    "BaseValue": 1000,
+    "Size": "very large"
+  },
+  {
+    "BaseValue": 5000,
+    "Size": "huge"
+  },
+  {
+    "BaseValue": 10000,
+    "Size": "very huge"
+  },
+  {
+    "BaseValue": 25000,
+    "Size": "enourmous"
+  },
+  {
+    "BaseValue": 50000,
+    "Size": "jumbo"
+  },
+  {
+    "BaseValue": 100000,
+    "Size": "gigantic"
+  },
+  {
+    "BaseValue": 250000,
+    "Size": "colossal"
+  },
+  {
+    "BaseValue": 500000,
+    "Size": "titanic"
+  },
+  {
+    "BaseValue": 1000000,
+    "Size": "Brobdingnagian"
+  }
+]
