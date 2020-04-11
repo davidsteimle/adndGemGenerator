@@ -2,37 +2,37 @@
   {
     "DiceScore": [1,25],
     "BaseValue": 10,
-    "Description": "ornamental",
+    "Type": "ornamental",
     "Size": "very small"
   },
   {
     "DiceScore": [26,50],
     "BaseValue": 50,
-    "Description": "semi-precious",
+    "Type": "semi-precious",
     "Size": "small"
   },
   {
     "DiceScore": [51,70],
     "BaseValue": 100,
-    "Description": "fancy",
+    "Type": "fancy",
     "Size": "average"
   },
   {
     "DiceScore": [71,90],
     "BaseValue": 500,
-    "Description": "precious",
+    "Type": "precious",
     "Size": "large"
   },
   {
     "DiceScore": [91,99],
     "BaseValue": 1000,
-    "Description": "gem",
+    "Type": "gem",
     "Size": "very large"
   },
   {
     "DiceScore": [100,100],
     "BaseValue": 5000,
-    "Description": "jewel",
+    "Type": "jewel",
     "Size": "huge"
   }
 ]
