@@ -1,13 +1,13 @@
 [
   {
-    "BaseValue": "10",
+    "BaseValue": 10,
     "Name": "azurite",
     "Opacity": "opaque",
     "Description": "mottled deep blue",
     "ReputedProperties": null
   },
   {
-    "BaseValue": "10",
+    "BaseValue": 10,
     "Name": "banded agate",
     "Opacity": "translucent",
     "Description": "striped brown and blue and white and reddish",
