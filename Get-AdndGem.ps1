@@ -1,7 +1,10 @@
 # Import json to create objects.
-$basevalueofgems = Invoke-RestMethod -Uri https://raw.githubusercontent.com/davidsteimle/adndGemGenerator/master/basevalueofgems.json
-$keytogemproperties = Invoke-RestMethod -Uri https://raw.githubusercontent.com/davidsteimle/adndGemGenerator/master/keytogemproperties.json
-$sizechain = Invoke-RestMethod -Uri https://raw.githubusercontent.com/davidsteimle/adndGemGenerator/master/sizechain.json
+# $basevalueofgems = Invoke-RestMethod -Uri https://raw.githubusercontent.com/davidsteimle/adndGemGenerator/master/basevalueofgems.json
+# $keytogemproperties = Invoke-RestMethod -Uri https://raw.githubusercontent.com/davidsteimle/adndGemGenerator/master/keytogemproperties.json
+# $sizechain = Invoke-RestMethod -Uri https://raw.githubusercontent.com/davidsteimle/adndGemGenerator/master/sizechain.json
+$basevalueofgems = Invoke-RestMethod -Uri http://davidsteimle.net/adndGemGenerator/basevalueofgems.json
+$keytogemproperties = Invoke-RestMethod -Uri http://davidsteimle.net/adndGemGenerator/keytogemproperties.json
+$sizechain = Invoke-RestMethod -Uri http://davidsteimle.net/adndGemGenerator/sizechain.json
 
 # Convert the range from the DiceScore into a usable range for comparison.
 foreach($item in $basevalueofgems){
